@@ -1,3 +1,4 @@
+//Write a program in C to check a number is a prime number or not using recursion
 #include<stdio.h>
 #include<math.h>
 int CheckPrime(int i,int num)
