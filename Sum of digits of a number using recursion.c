@@ -1,3 +1,4 @@
+//Find the sum of digits of a number using recursion
 #include<stdio.h>
 int sum();//fuction prototyp
 main()
