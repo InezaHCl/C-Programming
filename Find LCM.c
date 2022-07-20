@@ -1,3 +1,4 @@
+//Write a program in C to find the LCM of two numbers using recursion
 #include<stdio.h>
 
 int find_lcm(int, int);   // function prototype declaration
